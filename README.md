@@ -1,0 +1,1 @@
+Interface no Delphi
