@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/28 20:44:46.000.873,=C:\Users\zluan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/28 20:55:35.000.541,C:\Users\zluan\Documents\Projetos\Delphi\Interface\Unit1.pas=C:\Users\zluan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/28 20:55:35.000.541,C:\Users\zluan\Documents\Projetos\Delphi\Interface\Unit1.dfm=C:\Users\zluan\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/04/28 20:55:38.000.687,C:\Users\zluan\Documents\Projetos\Delphi\Interface\Project1.dproj=C:\Users\zluan\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/04/28 23:21:43.000.546,=C:\Users\zluan\Downloads\instagram.png</Transaction>
+    <Transaction>2021/04/28 23:21:43.000.517,=C:\Users\zluan\Downloads\facebook (1).png</Transaction>
+    <Transaction>2021/04/28 23:21:43.000.559,=C:\Users\zluan\Downloads\social_Twitter_38.png</Transaction>
+    <Transaction>2021/04/28 23:21:43.000.535,=C:\Users\zluan\Downloads\instagram (1).png</Transaction>
+    <Transaction>2021/04/28 23:21:43.000.526,=C:\Users\zluan\Downloads\facebook.png</Transaction>
+    <Transaction>2021/04/28 23:21:43.000.510,=C:\Users\zluan\Downloads\1491579542-yumminkysocialmedia22_83078.png</Transaction>
+    <Transaction>2021/04/29 00:05:06.000.778,=C:\Users\zluan\Documents\Projetos\Delphi\Interface\Unit2.pas</Transaction>
+    <Transaction>2021/04/29 00:05:22.000.875,C:\Users\zluan\Documents\Projetos\Delphi\Interface\Gerenciador.form.pas=C:\Users\zluan\Documents\Projetos\Delphi\Interface\Unit2.pas</Transaction>
+    <Transaction>2021/04/29 00:15:01.000.570,=C:\Users\zluan\Documents\Projetos\Delphi\Interface\Unit2.pas</Transaction>
+    <Transaction>2021/04/29 20:38:28.000.623,=C:\Users\zluan\Documents\Projetos\Delphi\Interface\Unit2.pas</Transaction>
+    <Transaction>2021/04/29 20:38:50.000.835,C:\Users\zluan\Documents\Projetos\Delphi\Interface\Unit2.dfm=C:\Users\zluan\Documents\Projetos\Delphi\Interface\Form.Explorer.dfm</Transaction>
+    <Transaction>2021/04/29 20:38:50.000.835,C:\Users\zluan\Documents\Projetos\Delphi\Interface\Unit2.pas=C:\Users\zluan\Documents\Projetos\Delphi\Interface\Form.Explorer.pas</Transaction>
+    <Transaction>2021/04/29 21:38:45.000.705,=C:\Users\zluan\Documents\Projetos\Delphi\Interface\Unit2.pas</Transaction>
+    <Transaction>2021/04/29 21:39:43.000.467,C:\Users\zluan\Documents\Projetos\Delphi\Interface\Unit2.dfm=C:\Users\zluan\Documents\Projetos\Delphi\Interface\Form.Frame.dfm</Transaction>
+    <Transaction>2021/04/29 21:39:43.000.467,C:\Users\zluan\Documents\Projetos\Delphi\Interface\Unit2.pas=C:\Users\zluan\Documents\Projetos\Delphi\Interface\Form.Frame.pas</Transaction>
+    <Transaction>2021/04/29 23:55:19.632,=C:\Users\zluan\Documents\Projetos\Delphi\Interface\Unit2.pas</Transaction>
+    <Transaction>2021/04/29 23:55:35.748,C:\Users\zluan\Documents\Projetos\Delphi\Interface\Form.Produto.dfm=C:\Users\zluan\Documents\Projetos\Delphi\Interface\Unit2.dfm</Transaction>
+    <Transaction>2021/04/29 23:55:35.748,C:\Users\zluan\Documents\Projetos\Delphi\Interface\Form.Produto.pas=C:\Users\zluan\Documents\Projetos\Delphi\Interface\Unit2.pas</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\..\..\..\zluan"/>
+    <File Path="..\..\..\..\Downloads"/>
+    <File Path="..\..\..\..\Downloads\1491579542-yumminkysocialmedia22_83078.png"/>
+    <File Path="..\..\..\..\Downloads\facebook (1).png"/>
+    <File Path="..\..\..\..\Downloads\facebook.png"/>
+    <File Path="..\..\..\..\Downloads\instagram (1).png"/>
+    <File Path="..\..\..\..\Downloads\instagram.png"/>
+    <File Path="..\..\..\..\Downloads\social_Twitter_38.png"/>
+    <File Path="Form.Explorer.pas"/>
+    <File Path="Form.Explorer.dfm"/>
+    <File Path="Form.Frame.pas"/>
+    <File Path="Form.Frame.dfm"/>
+    <File Path="Form.Produto.pas"/>
+    <File Path="Form.Produto.dfm"/>
+    <File Path="Gerenciador.form.pas"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
